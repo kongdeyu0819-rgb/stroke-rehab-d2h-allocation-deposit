@@ -1,0 +1,16 @@
+country,pt_density_2023,target_pt_density_us_level,pop_millions,current_PTs,target_PTs,PTs_needed,d2h_priority,pt_data_available,PTs_allocated,d2h_alloc_usd,d2h_alloc_usd_billions
+BN,,,0.46,,,,NO,NO(blue-ocean gap),0,0.0,0.0
+CN,,,1430.65,,,,YES,NO(blue-ocean gap),0,0.0,0.0
+GB,49.42915807463359,71.79779541720993,69.17,34188.0,49659.0,15471.0,NO,YES,0,0.0,0.0
+ID,,,287.47,,,,YES,NO(blue-ocean gap),0,0.0,0.0
+JP,58.20156716079993,71.79779541720993,124.67,72561.0,89512.0,16951.0,YES,YES,16951,1440835000.0,1.441
+KH,,,17.19,,,,YES,NO(blue-ocean gap),0,0.0,0.0
+KR,94.73724003283668,71.79779541720993,51.7,48978.0,37119.0,-11859.0,NO,YES,0,0.0,0.0
+LA,,,7.52,,,,YES,NO(blue-ocean gap),0,0.0,0.0
+MM,,,57.51,,,,YES,NO(blue-ocean gap),0,0.0,0.0
+MY,,,34.16,,,,YES,NO(blue-ocean gap),0,0.0,0.0
+PH,,,114.51,,,,NO,NO(blue-ocean gap),0,0.0,0.0
+SG,,,5.69,,,,NO,NO(blue-ocean gap),0,0.0,0.0
+TH,,,65.72,,,,YES,NO(blue-ocean gap),0,0.0,0.0
+US,71.79779541720993,71.79779541720993,335.41,240820.0,240820.0,0.0,NO,YES,0,0.0,0.0
+VN,,,103.15,,,,YES,NO(blue-ocean gap),0,0.0,0.0
