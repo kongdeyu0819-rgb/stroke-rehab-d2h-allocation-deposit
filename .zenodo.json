@@ -1,8 +1,8 @@
 {
   "title": "Stroke rehabilitation debt-for-health allocation: data and code deposit",
   "upload_type": "software",
-  "description": "Companion data and code deposit for Paper 3 (policy / Debt-to-Health) of the stroke rehabilitation demand research programme (15 economies, 2010-2023). Computes the market-failure targeting index Gap = D - S, three debt-for-health allocation scenarios, dose-response, and physiotherapist-workforce costing. See README.md for file-level documentation. Random seed 3407.",
-  "version": "1.0.2",
+  "description": "Companion data and code deposit for Paper 3 (policy / Debt-to-Health) of the stroke rehabilitation demand research programme (15 economies, 2010-2023). Computes the market-failure targeting index Gap = D - S on two burden metrics: stroke DALY crude rate (primary analysis, Step 11c) and stroke incidence scaled by a fixed factor (earlier construction, retained as the metric-sensitivity comparator, Step 11b). Both share the same supply index and min-max frame, so they differ only in the demand term. Includes the 15-country GBD 2023 crude burden rate table (incidence, DALY, YLD, prevalence), three debt-for-health allocation scenarios, dose-response, and physiotherapist-workforce costing. See README.md for file-level documentation. Random seed 3407.",
+  "version": "1.1.0",
   "license": "cc-by-4.0",
   "keywords": [
     "stroke rehabilitation",
